@@ -16,7 +16,7 @@ const Footer = () => {
         
         <Box>
           <Typography variant="h5" mt="5px" mb="25px">
-            Made with &#9829; by Ashutosh Gautam
+            Made with &#9829; by Gautam
           </Typography>
 
           <Stack direction="row" pb="40px" fontSize="18px" justifyContent="space-between">
