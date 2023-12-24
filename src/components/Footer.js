@@ -20,13 +20,13 @@ const Footer = () => {
           </Typography>
 
           <Stack direction="row" pb="40px" fontSize="18px" justifyContent="space-between">
-            <Link href="https://www.linkedin.com/in/ashuthe1/" target="_blank" underline="hover" rel="noopener">
+            {/* <Link href="https://www.linkedin.com/in/ashuthe1/" target="_blank" underline="hover" rel="noopener">
               LinkedIn
             </Link>
             
             <Link href="https://ashutoshgautam.dev" target="_blank" underline="hover" rel="noopener">
               Portfolio Website
-            </Link>
+            </Link> */}
           </Stack>
         </Box>
 
